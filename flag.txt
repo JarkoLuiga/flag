@@ -26,6 +26,7 @@
 .swf
 .web
 @
+locationflag
 _
 _adm
 _admin
@@ -4612,4 +4613,3 @@ zoom
 zope
 zorum
 zt
-locationflag
